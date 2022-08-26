@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskP", "TestTaskP\TestTaskP.csproj", "{6099D835-8C5C-41E6-B1CE-4D80E03BD2BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskP.Tests", "TestTaskP.Tests\TestTaskP.Tests.csproj", "{2A8D613C-FC5F-47AF-A860-2196CCCF5CAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6099D835-8C5C-41E6-B1CE-4D80E03BD2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6099D835-8C5C-41E6-B1CE-4D80E03BD2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6099D835-8C5C-41E6-B1CE-4D80E03BD2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8D613C-FC5F-47AF-A860-2196CCCF5CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8D613C-FC5F-47AF-A860-2196CCCF5CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8D613C-FC5F-47AF-A860-2196CCCF5CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8D613C-FC5F-47AF-A860-2196CCCF5CAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
